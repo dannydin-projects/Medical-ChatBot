@@ -9,5 +9,4 @@ langchain-community==0.3.26
 langchain-google-genai
 pinecone
 ipykernel
-pandas
 -e .
