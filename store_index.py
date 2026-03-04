@@ -1,4 +1,5 @@
 from dotenv import load_dotenv
+import pandas as pd
 import os
 from pinecone import Pinecone, ServerlessSpec
 import src.helper as helper 
